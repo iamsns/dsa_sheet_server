@@ -1,0 +1,163 @@
+[
+  {
+  "name": "Algorithms",
+  "subTopics": [
+    {
+      "name": "Sorting Algorithms",
+      "level": "EASY",
+      "leetCodeLink": "https://leetcode.com/tag/sorting/",
+      "youtubeLink": "https://www.youtube.com/watch?v=1jCFUv-Xlqo",
+      "articleLink": "https://www.geeksforgeeks.org/sorting-algorithms/",
+      "isChecked": false
+    },
+    {
+      "name": "Searching Algorithms",
+      "level": "EASY",
+      "leetCodeLink": "https://leetcode.com/tag/binary-search/",
+      "youtubeLink": "https://www.youtube.com/watch?v=5qzPDMkE5d8",
+      "articleLink": "https://www.geeksforgeeks.org/searching-algorithms/",
+      "isChecked": false
+    },
+    {
+      "name": "Dynamic Programming",
+      "level": "MEDIUM",
+      "leetCodeLink": "https://leetcode.com/tag/dynamic-programming/",
+      "youtubeLink": "https://www.youtube.com/watch?v=tyB0ztf0DNY",
+      "articleLink": "https://www.geeksforgeeks.org/dynamic-programming/",
+      "isChecked": false
+    },
+    {
+      "name": "Greedy Algorithms",
+      "level": "MEDIUM",
+      "leetCodeLink": "https://leetcode.com/tag/greedy/",
+      "youtubeLink": "https://www.youtube.com/watch?v=ARvQcqVfD4E",
+      "articleLink": "https://www.geeksforgeeks.org/greedy-algorithms/",
+      "isChecked": false
+    },
+    {
+      "name": "Divide and Conquer",
+      "level": "MEDIUM",
+      "leetCodeLink": "https://leetcode.com/tag/divide-and-conquer/",
+      "youtubeLink": "https://www.youtube.com/watch?v=0nlPxaC2lTw",
+      "articleLink": "https://www.geeksforgeeks.org/divide-and-conquer/",
+      "isChecked": false
+    },
+    {
+      "name": "Backtracking",
+      "level": "HARD",
+      "leetCodeLink": "https://leetcode.com/tag/backtracking/",
+      "youtubeLink": "https://www.youtube.com/watch?v=DKCbsiDBN6c",
+      "articleLink": "https://www.geeksforgeeks.org/backtracking-algorithms/",
+      "isChecked": false
+    }
+  ]
+  },
+  {
+    "name": "Data Structures",
+    "subTopics": [
+      { "name": "Arrays", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Linked Lists", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Stacks and Queues", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Trees", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Graphs", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Hash Tables", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Heaps and Priority Queues", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Tries", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Databases",
+    "subTopics": [
+      { "name": "Relational Databases", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "SQL Queries", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Indexing and Optimization", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Transactions and Concurrency", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "NoSQL Databases", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Data Modeling", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Database Normalization", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "subTopics": [
+      { "name": "Supervised Learning", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Unsupervised Learning", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Neural Networks and Deep Learning", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Decision Trees and Random Forests", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Support Vector Machines", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Clustering Algorithms", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Reinforcement Learning", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Operating Systems",
+    "subTopics": [
+      { "name": "Process Management", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Memory Management", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "File Systems", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Scheduling Algorithms", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Deadlocks", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Synchronization and Concurrency", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Virtualization", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Networks",
+    "subTopics": [
+      { "name": "OSI and TCP/IP Models", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "IP Addressing and Subnetting", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Routing Protocols", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Network Security", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "HTTP/HTTPS and Web Protocols", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "DNS and DHCP", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Wireless Networks", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "subTopics": [
+      { "name": "Discrete Mathematics", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Probability and Statistics", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Linear Algebra", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Calculus", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Number Theory", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Graph Theory", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Combinatorics", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Software Engineering",
+    "subTopics": [
+      { "name": "Software Development Life Cycle (SDLC)", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Design Patterns", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Agile and Scrum", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Version Control (Git)", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Testing (Unit, Integration, E2E)", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Continuous Integration/Continuous Deployment (CI/CD)", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Requirements Gathering and Analysis", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Web Development",
+    "subTopics": [
+      { "name": "HTML, CSS, JavaScript", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Frontend Frameworks (React, Angular, Vue)", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Backend Development (Node.js, Express)", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "RESTful APIs and GraphQL", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Authentication and Authorization", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Web Security (XSS, CSRF, CORS)", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Performance Optimization", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  },
+  {
+    "name": "Cloud Computing",
+    "subTopics": [
+      { "name": "Cloud Service Models (IaaS, PaaS, SaaS)", "level": "EASY", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "AWS, Azure, Google Cloud", "level": "MEDIUM", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Serverless Architecture", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Containers and Orchestration (Docker, Kubernetes)", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Cloud Security", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false },
+      { "name": "Infrastructure as Code (Terraform, CloudFormation)", "level": "HARD", "leetCodeLink": "", "youtubeLink": "", "articleLink": "", "isChecked": false }
+    ]
+  }
+]
