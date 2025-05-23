@@ -4,7 +4,6 @@ require("dotenv").config()
 
 const routes = require("./routes/routes")
 const mongoConnect = require("./db_connection/mongoose")
-const { importData } = require("./script/topicScript")
 
 const app = express()
 
@@ -18,7 +17,6 @@ mongoConnect()
     app.listen(process.env.PORT, () => {
       console.log(`****** Server is running on ${process.env.PORT} ******`)
     })
-    await importData()
 
   })
   .catch((err) => {
