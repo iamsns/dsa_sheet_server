@@ -17,7 +17,6 @@ exports.updateSubTopicStatus = async (req, res) => {
     );
 
     if (updateResult.matchedCount === 0) {
-      // If subTopic not found, add it to subTopics array
       await UserProgress.updateOne(
         { user: userId, topicId },
         { $addToSet: { subTopics: { subTopicId, status } } },

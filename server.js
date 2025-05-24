@@ -17,7 +17,6 @@ mongoConnect()
     app.listen(process.env.PORT, () => {
       console.log(`****** Server is running on ${process.env.PORT} ******`)
     })
-
   })
   .catch((err) => {
     console.log(err)
